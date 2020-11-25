@@ -1,1 +1,1 @@
-# hello_django_heroku
+# hello_heroku
